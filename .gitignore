@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.swp
+*.swo
+ca/*
+*.egg-info
+*.key
+*.pem
+*.cert
